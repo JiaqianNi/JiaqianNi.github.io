@@ -11,7 +11,7 @@ title                    : "Jiaqian Ni / 倪佳倩"
 title_separator          : "-"
 name                     : &name "Jiaqian Ni"
 description              : &description "personal description"
-url                      : https://jiaqian-ni.github.io 
+url                      : https://jiaqianni.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JiaqianNi/JiaqianNi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
