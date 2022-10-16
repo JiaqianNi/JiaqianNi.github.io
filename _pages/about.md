@@ -10,4 +10,4 @@ redirect_from:
 
 I am a PhD student in the [Department of Political Science](https://polisci.berkeley.edu/) at the [University of California, Berkeley](https://www.berkeley.edu/). My research interests lie at the intersection of international relations, political psychology, and public opinion. 
 
-I hold a MPhil in International Relations from the University of Oxford and a Bachelor's degree in Social Sciences from the University of Hong Kong. 
+I hold an MPhil in International Relations from the University of Oxford and a Bachelor's degree in Social Sciences from the University of Hong Kong. 
