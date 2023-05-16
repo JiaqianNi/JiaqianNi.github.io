@@ -7,13 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Causes of International War 
-
-  * Teaching assistant for Prof Kai Quek
-  * 2021 Fall, University of Hong Kong 
-
-
-## War! 
-
-  * Graduate Student Instructor for Prof Ron Hassner
-  * 2023 Fall, UC Berkeley
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
