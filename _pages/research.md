@@ -11,7 +11,7 @@ author_profile: true
 
   * [Kai Quek](https://ppaweb.hku.hk/f/quek) and **Jiaqian Ni**. "International Apologies and Reconciliation." (R & R) 
   
-  * **Ni, Jiaqian**, Felix Wang, and [Kai Quek](https://ppaweb.hku.hk/f/quek). "The Sources of National Pride: Survey Evidence from China and the United States"
+  * **Ni, Jiaqian**, Felix Wang, and [Kai Quek](https://ppaweb.hku.hk/f/quek). "The Sources of National Pride: Survey Evidence from China and the United States" (R & R)
 
 
 ## Work in Progress
