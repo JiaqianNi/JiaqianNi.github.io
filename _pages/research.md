@@ -9,9 +9,9 @@ author_profile: true
 
   * **Ni, Jiaqian.** "Behavior, Identity, and Incongruency: When and How are Political Attitudes Moved?"
 
-  * [Kai Quek](https://ppaweb.hku.hk/f/quek) and **Jiaqian Ni**. "International Apologies and Reconciliation." (R & R) 
+  * [Kai Quek](https://ppaweb.hku.hk/f/quek) and **Jiaqian Ni**. "International Apologies and Reconciliation." (Under Review) 
   
-  * **Ni, Jiaqian**, Felix Wang, and [Kai Quek](https://ppaweb.hku.hk/f/quek). "The Sources of National Pride: Survey Evidence from China and the United States" (Under Review)
+  * **Ni, Jiaqian**, Felix Wang, and [Kai Quek](https://ppaweb.hku.hk/f/quek). "The Sources of National Pride: Survey Evidence from China and the United States" (Minor Revisions)
 
 
 ## Work in Progress
