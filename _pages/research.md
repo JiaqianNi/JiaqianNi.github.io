@@ -11,7 +11,7 @@ author_profile: true
 
   * **Ni Jiaqian** and [Kai Quek](https://ppaweb.hku.hk/f/quek). "Apology Accepted? Domestic Dynamics and War Apologies" (Under Review)
 
-  * **[Kai Quek]**(https://ppaweb.hku.hk/f/quek) and Jiaqian Ni. "How to Conciliate? Counterfactual Experiments on Pathways to Conciliation." 
+  * **[Kai Quek](https://ppaweb.hku.hk/f/quek)** and Jiaqian Ni. "How to Conciliate? Counterfactual Experiments on Pathways to Conciliation." 
   
   * **Ni, Jiaqian**, Felix Wang, and [Kai Quek](https://ppaweb.hku.hk/f/quek). "The Sources of National Pride: Survey Evidence from China and the United States" (Accepted at *Nations and Nationalism*)
 
