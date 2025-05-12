@@ -7,22 +7,20 @@ author_profile: true
 
 ## Publications 
 
- * **Ni, Jiaqian**, Mengqiao Wang, and Kai Quek. 2024. "[The Sources of National Pride: Evidence from China and the United States](https://doi.org/10.1111/nana.13007)." *Nations and Nationalism*: 1–18. 
+ * **Ni, Jiaqian**, Mengqiao Wang, and Kai Quek. 2024. "[The Sources of National Pride: Evidence from China and the United States](https://doi.org/10.1111/nana.13007)." *Nations and Nationalism*:, 30(4): 547-64. 
  
 ## Working Papers 
 
-  * **Ni, Jiaqian.** "Behavior, Identity, and Incongruency: When and How are Political Attitudes Moved?"
+  * "Behavior, Identity, and Incongruency: When and How are Political Attitudes Moved?" (HKU MPhil thesis)
+  * 
+  * "Mixed Signaling and Negativity Bias: When do Negative Public Opinion Harm or Help International Reconciliation?"
 
-  * **Ni, Jiaqian** and [Kai Quek](https://ppaweb.hku.hk/f/quek). "Apology Accepted? Domestic Dynamics and War Apologies" (Under Review)
+  * "Do War Apologies Work? Interstate Apologies in the Shadow of Domestic Dynamics." (with Kai Quek, Under Review)
 
-  * **[Quek, Kai](https://ppaweb.hku.hk/f/quek)** and Jiaqian Ni. "How to Conciliate? Counterfactual Experiments on Pathways to Conciliation." 
+  * "The Pblic Dynamics of Conciliation in the Shadow of Interstate Grievances." (with Kai Quek) 
+
+  * "The Public Dynamics of Reconciliation: Parallel Experiments in China and the United States." (with Kai Quek and Gabriel Fung) 
+    
+
   
-
-## Work in Progress
-
-* "Mixed Signaling and Negativity Bias: When do Negative Public Opinion Harm or Help International Reconciliation?"
-
-* "To Suspend or Not? Legitimacy Concerns and MDB Funding Decisions in Situations of Conflict." 
-
-* "Do Female Suicide Bombers Shape Gender Norms?" 
        
