@@ -11,19 +11,16 @@ author_profile: true
  
 ## Working Papers 
 
-  * "Behavior, Identity, and Incongruency: When and How are Political Attitudes Moved?"
-    (HKU MPhil thesis)
+  * "Behavior, Identity, and Incongruency: When and How are Political Attitudes Moved?" <br> (HKU MPhil thesis)
     
   * "Mixed Signaling and Negativity Bias: When do Negative Public Opinion Harm or Help International Reconciliation?"
+    <br> (Second Year Paper)
 
-  * "Do War Apologies Work? Interstate Apologies in the Shadow of Domestic Dynamics."
-    (with Kai Quek, Under Review)
+  * "Do War Apologies Work? Interstate Apologies in the Shadow of Domestic Dynamics." <br> (with Kai Quek, Under Review)
 
-  * "The Pblic Dynamics of Conciliation in the Shadow of Interstate Grievances."
-    (with Kai Quek) 
+  * "The Pblic Dynamics of Conciliation in the Shadow of Interstate Grievances." <br> (with Kai Quek) 
 
-  * "The Public Dynamics of Reconciliation: Parallel Experiments in China and the United States."
-    (with Kai Quek and Gabriel Fung) 
+  * "The Public Dynamics of Reconciliation: Parallel Experiments in China and the United States." <br>(with Kai Quek and Gabriel Fung) 
     
 
   
