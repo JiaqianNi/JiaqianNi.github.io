@@ -12,7 +12,7 @@ author_profile: true
 ## Working Papers 
 
   * "Behavior, Identity, and Incongruency: When and How are Political Attitudes Moved?" (HKU MPhil thesis)
-  * 
+    
   * "Mixed Signaling and Negativity Bias: When do Negative Public Opinion Harm or Help International Reconciliation?"
 
   * "Do War Apologies Work? Interstate Apologies in the Shadow of Domestic Dynamics." (with Kai Quek, Under Review)
