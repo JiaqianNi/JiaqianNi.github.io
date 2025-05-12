@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications 
 
- * **Ni, Jiaqian**, Mengqiao Wang, and Kai Quek. 2024. "[The Sources of National Pride: Evidence from China and the United States](https://doi.org/10.1111/nana.13007)." *Nations and Nationalism*:, 30(4): 547-64. 
+ * **Ni, Jiaqian**, Mengqiao Wang, and Kai Quek. 2024. "[The Sources of National Pride: Evidence from China and the United States](https://doi.org/10.1111/nana.13007)." *Nations and Nationalism*, 30(4): 547-64. 
  
 ## Working Papers 
 
