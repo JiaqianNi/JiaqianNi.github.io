@@ -6,22 +6,23 @@ author_profile: true
 ---
 
 ## Publications 
-
+* Quek, Kai and **Jiaqian Ni**. 2026. "[Interstate Conciliation in the Shadow of Deep Historical Grievances](https://doi.org/10.1177/00220027261424197)." *Journal of Conflict Resolution* (Online First).
+  
  * **Ni, Jiaqian**, Mengqiao Wang, and Kai Quek. 2024. "[The Sources of National Pride: Evidence from China and the United States](https://doi.org/10.1111/nana.13007)." *Nations and Nationalism*, 30(4): 547-64. 
  
 ## Working Papers 
-
-  * "Behavior, Identity, and Incongruency: When and How are Political Attitudes Moved?" <br> (HKU MPhil thesis)
     
+  * "Behavior, Identity, and Incongruency: When and How are Political Attitudes Moved?" 
   * "Mixed Signaling and Negativity Bias: When do Negative Public Opinion Harm or Help International Reconciliation?"
-    <br> (Second Year Paper)
+  * "Do War Apologies Work? Interstate Apologies in the Shadow of Domestic Dynamics." (with Kai Quek)
+  * "The Public Dynamics of Reconciliation: Dyadic Experiments in China and the United States." (with Kai Quek and Gabriel Fung)
+  *  "Meding Ties: Do Interstate Apologies Foster Cooperation?" (with Michaela Mattes)
 
-  * "Do War Apologies Work? Interstate Apologies in the Shadow of Domestic Dynamics." <br> (with Kai Quek, Under Review)
+## Work in Progress
 
-  * "The Pblic Dynamics of Conciliation in the Shadow of Interstate Grievances." <br> (with Kai Quek) 
-
-  * "The Public Dynamics of Reconciliation: Parallel Experiments in China and the United States." <br>(with Kai Quek and Gabriel Fung) 
-    
+  * "Selling Rapprochement at Home and Abroad: Domestic Strategies and Their International Effects"
+  * "The Role of Business Interest in International Rapprochement"
+  * "Uncertainty and Trust in International Relations"
 
   
        
