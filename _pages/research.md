@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Publications 
-* Quek, Kai and **Jiaqian Ni**. 2026. "[Interstate Conciliation in the Shadow of Deep Historical Grievances](https://doi.org/10.1177/00220027261424197)." *Journal of Conflict Resolution* (Online First).
+* Quek, Kai and **Jiaqian Ni**. 2026. "[Interstate Conciliation in the Shadow of Deep Historical Grievances](https://doi.org/10.1177/00220027261424197)." *Journal of Conflict Resolution*, 70(7-8), 1274-1302.
   
  * **Ni, Jiaqian**, Mengqiao Wang, and Kai Quek. 2024. "[The Sources of National Pride: Evidence from China and the United States](https://doi.org/10.1111/nana.13007)." *Nations and Nationalism*, 30(4): 547-64. 
  
