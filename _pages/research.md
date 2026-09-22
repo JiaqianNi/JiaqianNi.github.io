@@ -11,16 +11,17 @@ author_profile: true
  * **Ni, Jiaqian**, Mengqiao Wang, and Kai Quek. 2024. "[The Sources of National Pride: Evidence from China and the United States](https://doi.org/10.1111/nana.13007)." *Nations and Nationalism*, 30(4): 547-64. 
  
 ## Working Papers 
-    
-  * "Behavior, Identity, and Incongruency: When and How are Political Attitudes Moved?" 
+
+  * "Selling Rapprochement at Home and Abroad: Domestic Strategies and Their International Effects"
+  * "Meding Ties: Do Interstate Apologies Foster Cooperation?" (with Michaela Mattes)
   * "Mixed Signaling and Negativity Bias: When do Negative Public Opinion Harm or Help International Reconciliation?"
-  * "Do War Apologies Work? Interstate Apologies in the Shadow of Domestic Dynamics." (with Kai Quek)
-  * "The Public Dynamics of Reconciliation: Dyadic Experiments in China and the United States." (with Kai Quek and Gabriel Fung)
-  *  "Meding Ties: Do Interstate Apologies Foster Cooperation?" (with Michaela Mattes)
+  * "Two Sides of the Sorry: Domestic Dynamics and the Effectiveness of War Apologies." (with Kai Quek)
+  * "Domestic Feasibility and Interstate Reconciliation: Dyadic Experiments in China and the United States." (with K.Quek and G.Fung)
+  * "Behavior, Identity, and Incongruency: When and How are Political Attitudes Moved?" 
+ 
 
 ## Work in Progress
 
-  * "Selling Rapprochement at Home and Abroad: Domestic Strategies and Their International Effects"
   * "The Role of Business Interest in International Rapprochement"
   * "Uncertainty and Trust in International Relations"
 
